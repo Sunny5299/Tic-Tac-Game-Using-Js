@@ -1,0 +1,57 @@
+body{
+    background-color: aqua;
+}
+#main{
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+    display: block;
+    
+}
+.box{
+    display: flex;
+    gap: 10px;
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    gap: 10px;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    font-size: 60px ;
+    color: black;
+}
+.newgame{
+    height: 30px;
+    width: 100px;
+    gap: 10px;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;  
+    display: block;
+    margin-bottom: 20px;
+    font-size: 10px;
+}
+.reset{
+    height: 30px;
+    width: 100px;
+    gap: 10px;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;  
+    display: block;
+    margin-top: 20px;
+    font-size: 10px;
+}
+.msg{
+    margin-right: 31%;
+    margin-left: auto;
+    width: 30%;
+    font-size: 30px;
+
+}
+.hide{
+    display: none;
+}
